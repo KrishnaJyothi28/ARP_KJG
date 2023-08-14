@@ -1,0 +1,113 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  background-color: #1e4b76;
+  padding: 75px;
+  justify-content: space-between;
+  align-items: center;
+}
+.FnALogo {
+  vertical-align: middle;
+}
+.linkSection {
+  color: white;
+  font-size: large;
+}
+.linkSection ul {
+  list-style: none;
+  padding: 0;
+}
+.linkSection ul li {
+  margin-bottom: 20px;
+}
+.linkSection ul li a {
+  text-decoration: underline;
+  color: white;
+}
+
+.socialMedia {
+  color: white;
+  font-weight: bolder;
+  font-size: large;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-self: center;
+  align-content: center;
+}
+.logoContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: white;
+  font-size: larger;
+  background-color: #00244a;
+  padding: 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+.verticalLine {
+  border-left: 2px solid white;
+  margin-right: 20px;
+  height: 100px;
+}
+.lightCastLogo {
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    padding: 60px;
+  }
+
+  .linkSection {
+    margin-top: 20px;
+  }
+
+  .linkSection ul li {
+    margin-bottom: 10px;
+  }
+
+  .socialMedia {
+    font-size: large;
+    justify-content: center;
+    padding-top: 20px;
+  }
+
+  .logoContainer {
+    flex-direction: column;
+    padding: 60px;
+    padding-left: 80px;
+    gap: 20px;
+  }
+
+  .verticalLine {
+    border-top: 2px solid white;
+    border-left: none;
+    margin-right: 0;
+    width: 125%;
+    height: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-right: 20px;
+  }
+  .lightCastLogo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  .AFPLogo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+
+  .AFPLogo span {
+    margin-right: 10px;
+  }
+  .FnALogo {
+    padding-bottom: 30px;
+  }
+}

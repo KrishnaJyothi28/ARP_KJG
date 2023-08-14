@@ -1,0 +1,38 @@
+.img {
+  width: 300px;
+  height: auto;
+}
+
+.tabs:hover {
+  color: #FDC45D !important;
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #193957;
+}
+
+.whiteTogglerIcon {
+  color: white;
+}
+
+.link {
+  font-size: x-large;
+  color: white;
+}
+
+.hightLightLink {
+  font-size: x-large;
+  font-weight: bold;
+  color: #D8B75C;
+}
+
+.menuIcon {
+  color: white;
+}
+
+.navbar-toggler {
+  border: none !important;
+}

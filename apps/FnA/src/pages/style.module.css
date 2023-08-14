@@ -1,0 +1,130 @@
+/*home page styles*/
+@media screen and (max-width: 1024px) {
+
+  .homePage,
+  .mapImg {
+    flex-direction: column-reverse !important;
+  }
+
+  .imageContainer {
+    height: fit-content !important;
+  }
+}
+
+@media screen and (max-width: 620px) {
+  .interactiveMapImage {
+    width: 500px !important;
+  }
+
+  .homeHeader1 {
+    font-size: x-large !important;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .interactiveMapImage {
+    width: 300px !important;
+  }
+
+  .careerPathwayPageImage,
+  .interactiveMapPageImage {
+    height: 200px !important;
+    width: 250px !important;
+  }
+
+  .homePageSection2 {
+    flex-direction: column !important;
+  }
+
+  .homeHeader1,
+  .homeButton1 {
+    margin-left: 10px !important;
+  }
+
+  .img {
+    width: 220px !important;
+  }
+}
+
+.homePage {
+  background-color: #EEF1F2;
+}
+
+.homeHeader1 {
+  max-width: 660px !important;
+  color: white !important;
+  margin-left: 100px;
+  font-weight: lighter;
+  font-size: 48px;
+}
+
+.homeButton1 {
+  margin: 10px 0 20px 100px;
+  background-color: #FDC45D;
+  padding: 24px;
+}
+
+.homeButton1Link {
+  text-decoration: none !important;
+  color: black;
+  font-size: 16px;
+}
+
+.homeButton1Link:hover {
+  color: black !important;
+  background-color: #FAA42B;
+}
+
+.mapImg,
+.homePageSection2 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.exploreButton {
+  background-color: #7ED1E2;
+  padding: 12px 18px;
+  margin: 20px 0 20px 0;
+  text-decoration: none !important;
+  color: black;
+}
+
+.exploreButton:hover {
+  background-color: #61C4D8;
+  color: black;
+}
+
+.FnA {
+  color: #7ED1E2;
+  font-weight: bold;
+}
+
+.mapRedirect,
+.nodeRedirect {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  max-width: 480px;
+  margin-top: 100px;
+}
+
+.imageContainer {
+  position: relative !important;
+  background-image: url('../assets/HomeBackground.png');
+  background-size: cover;
+  background-position: center;
+  width: auto;
+  height: 530px;
+  display: grid !important;
+  align-items: center;
+};
+
+.imageText {
+  position: relative !important;
+  color: white !important;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  z-index: 1;
+};

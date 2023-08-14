@@ -1,0 +1,420 @@
+{
+    "SupplyDemandRatio":[
+        {
+            "name": "Alabama",
+            "value": "6343",
+            "supplydemandratio": "2.2",
+            "totaljobpostings": "4421",
+            "workersinrole": "8645",
+            "averagesalary": "$75k"
+        },
+        {
+            "name": "Alaska",
+            "value": "1200",
+            "supplydemandratio": "1.1",
+            "totaljobpostings": "4232",
+            "workersinrole": "9854",
+            "averagesalary": "$115k"
+        },
+        {
+            "name": "Arizona",
+            "value": "4531",
+            "supplydemandratio": "2.2",
+            "totaljobpostings": "2346",
+            "workersinrole": "7864",
+            "averagesalary": "$235k"
+        },
+        {
+            "name": "Arkansas",
+            "value": "4534",
+            "supplydemandratio": "4.2",
+            "totaljobpostings": "2631",
+            "workersinrole": "8442",
+            "averagesalary": "$95k"
+        },
+        {
+            "name": "California",
+            "value": "5700",
+            "supplydemandratio": "5.7",
+            "totaljobpostings": "6433",
+            "workersinrole": "5211",
+            "averagesalary": "$101k"
+        },
+        {
+            "name": "Colorado",
+            "value": "4543",
+            "supplydemandratio": "3.7",
+            "totaljobpostings": "4331",
+            "workersinrole": "6431",
+            "averagesalary": "$220k"
+        },
+        {
+            "name": "Connecticut",
+            "value": "2422",
+            "supplydemandratio": "4.9",
+            "totaljobpostings": "3536",
+            "workersinrole": "3342",
+            "averagesalary": "$130k"
+        },
+        {
+            "name": "Delaware",
+            "value": "3422",
+            "supplydemandratio": "5.6",
+            "totaljobpostings": "9675",
+            "workersinrole": "9744",
+            "averagesalary": "$175k"
+        },
+        {
+            "name": "District of Columbia",
+            "value": "3431",
+            "supplydemandratio": "4.3",
+            "totaljobpostings": "1233",
+            "workersinrole": "9675",
+            "averagesalary": "$90k"
+        },
+        {
+            "name": "Florida",
+            "value": "2122",
+            "supplydemandratio": "5.5",
+            "totaljobpostings": "5335",
+            "workersinrole": "5323",
+            "averagesalary": "$150k"
+        },
+        {
+            "name": "Georgia",
+            "value": "3005",
+            "supplydemandratio": "2.2",
+            "totaljobpostings": "2329",
+            "workersinrole": "4321",
+            "averagesalary": "$65k"
+        },
+        {
+            "name": "Hawaii",
+            "value": "4353",
+            "supplydemandratio": "1.1",
+            "totaljobpostings": "3522",
+            "workersinrole": "9742",
+            "averagesalary": "$32k"
+        },
+        {
+            "name": "Idaho",
+            "value": "1221",
+            "supplydemandratio": "6.2",
+            "totaljobpostings": "3431",
+            "workersinrole": "6351",
+            "averagesalary": "$70k"
+        },
+        {
+            "name": "Illinois",
+            "value": "3432",
+            "supplydemandratio": "4",
+            "totaljobpostings": "2353",
+            "workersinrole": "5343",
+            "averagesalary": "$260k"
+        },
+        {
+            "name": "Indiana",
+            "value": "3432",
+            "supplydemandratio": "5.7",
+            "totaljobpostings": "4421",
+            "workersinrole": "4636",
+            "averagesalary": "$115k"
+        },
+        {
+            "name": "Iowa",
+            "value": "3242",
+            "supplydemandratio": "6.7",
+            "totaljobpostings": "2631",
+            "workersinrole": "4531",
+            "averagesalary": "$90k"
+        },
+        {
+            "name": "Kansas",
+            "value": "4531",
+            "supplydemandratio": "4.5",
+            "totaljobpostings": "7585",
+            "workersinrole": "9743",
+            "averagesalary": "$150k"
+        },
+        {
+            "name": "Kentucky",
+            "value": "4321",
+            "supplydemandratio": "1.1",
+            "totaljobpostings": "2631",
+            "workersinrole": "3221",
+            "averagesalary": "$75k"
+        },
+        {
+            "name": "Louisiana",
+            "value": "4531",
+            "supplydemandratio": "1.1",
+            "totaljobpostings": "3533",
+            "workersinrole": "3242",
+            "averagesalary": "$115k"
+        },
+        {
+            "name": "Maine",
+            "value": "3423",
+            "supplydemandratio": "2.2",
+            "totaljobpostings": "4531",
+            "workersinrole": "2612",
+            "averagesalary": "$235k"
+        },
+        {
+            "name": "Maryland",
+            "value": "5476",
+            "supplydemandratio": "4.2",
+            "totaljobpostings": "3533",
+            "workersinrole": "3422",
+            "averagesalary": "$95k"
+        },
+        {
+            "name": "Massachusetts",
+            "value": "3232",
+            "supplydemandratio": "3.7",
+            "totaljobpostings": "6464",
+            "workersinrole": "4321",
+            "averagesalary": "$101k"
+        },
+        {
+            "name": "Michigan",
+            "value": "1222",
+            "supplydemandratio": "2.9",
+            "totaljobpostings": "6211",
+            "workersinrole": "2432",
+            "averagesalary": "$101k"
+        },
+        {
+            "name": "Minnesota",
+            "value": "2412",
+            "supplydemandratio": "3.2",
+            "totaljobpostings": "2631",
+            "workersinrole": "8546",
+            "averagesalary": "$65k"
+        },
+        {
+            "name": "Mississippi",
+            "value": "2121",
+            "supplydemandratio": "5.7",
+            "totaljobpostings": "4541",
+            "workersinrole": "3244",
+            "averagesalary": "$65k"
+        },
+        {
+            "name": "Missouri",
+            "value": "3211",
+            "supplydemandratio": "3",
+            "totaljobpostings": "2631",
+            "workersinrole": "2322",
+            "averagesalary": "$101k"
+        },
+        {
+            "name": "Montana",
+            "value": "3423",
+            "supplydemandratio": "5.7",
+            "totaljobpostings": "5323",
+            "workersinrole": "3432",
+            "averagesalary": "$65k"
+        },
+        {
+            "name": "Nebraska",
+            "value": "2412",
+            "supplydemandratio": "2.9",
+            "totaljobpostings": "7456",
+            "workersinrole": "2432",
+            "averagesalary": "$101k"
+        },
+        {
+            "name": "Nevada",
+            "value": "1200",
+            "supplydemandratio": "2.9",
+            "totaljobpostings": "2631",
+            "workersinrole": "5313",
+            "averagesalary": "$101k"
+        },
+        {
+            "name": "New Hampshire",
+            "value": "2412",
+            "supplydemandratio": "4.2",
+            "totaljobpostings": "3533",
+            "workersinrole": "4531",
+            "averagesalary": "$140k"
+        },
+        {
+            "name": "New Jersey",
+            "value": "2321",
+            "supplydemandratio": "3",
+            "totaljobpostings": "2631",
+            "workersinrole": "2344",
+            "averagesalary": "$101k"
+        },
+        {
+            "name": "New Mexico",
+            "value": "2412",
+            "supplydemandratio": "3",
+            "totaljobpostings": "3431",
+            "workersinrole": "6355",
+            "averagesalary": "$101k"
+        },
+        {
+            "name": "New York",
+            "value": "1223",
+            "supplydemandratio": "2.9",
+            "totaljobpostings": "3432",
+            "workersinrole": "5454",
+            "averagesalary": "$65k"
+        },
+        {
+            "name": "North Carolina",
+            "value": "2311",
+            "supplydemandratio": "3",
+            "totaljobpostings": "4421",
+            "workersinrole": "4543",
+            "averagesalary": "$101k"
+        },
+        {
+            "name": "North Dakota",
+            "value": "1211",
+            "supplydemandratio": "5.7",
+            "totaljobpostings": "6754",
+            "workersinrole": "3544",
+            "averagesalary": "$65k"
+        },
+        {
+            "name": "Ohio",
+            "value": "5231",
+            "supplydemandratio": "3",
+            "totaljobpostings": "3311",
+            "workersinrole": "5355",
+            "averagesalary": "$101k"
+        },
+        {
+            "name": "Oklahoma",
+            "value": "4321",
+            "supplydemandratio": "3",
+            "totaljobpostings": "2631",
+            "workersinrole": "5351",
+            "averagesalary": "$101k"
+        },
+        {
+            "name": "Oregon",
+            "value": "4221",
+            "supplydemandratio": "3",
+            "totaljobpostings": "2631",
+            "workersinrole": "6463",
+            "averagesalary": "$101k"
+        },
+        {
+            "name": "Pennsylvania",
+            "value": "2111",
+            "supplydemandratio": "4",
+            "totaljobpostings": "6422",
+            "workersinrole": "5341",
+            "averagesalary": "$70k"
+        },
+        {
+            "name": "Rhode Island",
+            "value": "5004",
+            "supplydemandratio": "4.2",
+            "totaljobpostings": "2631",
+            "workersinrole": "9834",
+            "averagesalary": "$70k"
+        },
+        {
+            "name": "South Carolina",
+            "value": "5671",
+            "supplydemandratio": "4.4",
+            "totaljobpostings": "4531",
+            "workersinrole": "3432",
+            "averagesalary": "$70k"
+        },
+        {
+            "name": "South Dakota",
+            "value": "2322",
+            "supplydemandratio": "1.8",
+            "totaljobpostings": "2353",
+            "workersinrole": "4232",
+            "averagesalary": "$73k"
+        },
+        {
+            "name": "Tennessee",
+            "value": "2322",
+            "supplydemandratio": "5.7",
+            "totaljobpostings": "2631",
+            "workersinrole": "2432",
+            "averagesalary": "$70k"
+        },
+        {
+            "name": "Texas",
+            "value": "3452",
+            "supplydemandratio": "2.2",
+            "totaljobpostings": "3243",
+            "workersinrole": "2432",
+            "averagesalary": "$70k"
+        },
+        {
+            "name": "Utah",
+            "value": "2432",
+            "supplydemandratio": "1.8",
+            "totaljobpostings": "2631",
+            "workersinrole": "2742",
+            "averagesalary": "$101k"
+        },
+        {
+            "name": "Vermont",
+            "value": "4321",
+            "supplydemandratio": "3.4",
+            "totaljobpostings": "3233",
+            "workersinrole": "4322",
+            "averagesalary": "$70k"
+        },
+        {
+            "name": "Virginia",
+            "value": "4321",
+            "supplydemandratio": "4",
+            "totaljobpostings": "2631",
+            "workersinrole": "4321",
+            "averagesalary": "$70k"
+        },
+        {
+            "name": "Washington",
+            "value": "2422",
+            "supplydemandratio": "3.4",
+            "totaljobpostings": "6755",
+            "workersinrole": "9832",
+            "averagesalary": "$65k"
+        },
+        {
+            "name": "West Virginia",
+            "value": "4321",
+            "supplydemandratio": "2.8",
+            "totaljobpostings": "4643",
+            "workersinrole": "3243",
+            "averagesalary": "$101k"
+        },
+        {
+            "name": "Wisconsin",
+            "value": "4242",
+            "supplydemandratio": "3.7",
+            "totaljobpostings": "6311",
+            "workersinrole": "4531",
+            "averagesalary": "$65k"
+        },
+        {
+            "name": "Wyoming",
+            "value": "4242",
+            "supplydemandratio": "3.5",
+            "totaljobpostings": "5511",
+            "workersinrole": "2432",
+            "averagesalary": "$60k"
+        },
+        {
+            "name": "Puerto Rico",
+            "value": "2412",
+            "supplydemandratio": "2.2",
+            "totaljobpostings": "561",
+            "workersinrole": "2901",
+            "averagesalary": "$60k"
+        }
+    ]
+}

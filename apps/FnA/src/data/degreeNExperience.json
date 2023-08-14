@@ -1,0 +1,472 @@
+{
+  "data": [
+    {
+      "Occ_Id": 1,
+      "Occ_Name": "Chief Financial Officer",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 0,
+          "BAs_Degree": 84,
+          "PostGrad_Degree": 16
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 7,
+          "3_to_5_years": 31,
+          "5+_years": 62
+        }
+      ]
+    },
+    {
+      "Occ_Id": 2,
+      "Occ_Name": "Vice President, Finance/FP&A",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 2,
+          "BAs_Degree": 86,
+          "PostGrad_Degree": 12
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 4,
+          "3_to_5_years": 25,
+          "5+_years": 71
+        }
+      ]
+    },
+    {
+      "Occ_Id": 3,
+      "Occ_Name": "Director, Finance/FP&A",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 4,
+          "BAs_Degree": 88,
+          "PostGrad_Degree": 8
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 5,
+          "3_to_5_years": 33,
+          "5+_years": 62
+        }
+      ]
+    },
+    {
+      "Occ_Id": 4,
+      "Occ_Name": "Manager, Finance/FP&A",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 13,
+          "BAs_Degree": 81,
+          "PostGrad_Degree": 6
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 14,
+          "3_to_5_years": 46,
+          "5+_years": 40
+        }
+      ]
+    },
+    {
+      "Occ_Id": 5,
+      "Occ_Name": "Senior Financial/FP&A Analyst",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 0,
+          "BAs_Degree": 97,
+          "PostGrad_Degree": 3
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 13,
+          "3_to_5_years": 71,
+          "5+_years": 16
+        }
+      ]
+    },
+    {
+      "Occ_Id": 6,
+      "Occ_Name": "Financial/FP&A Analyst",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 0,
+          "BAs_Degree": 98,
+          "PostGrad_Degree": 2
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 45,
+          "3_to_5_years": 44,
+          "5+_years": 11
+        }
+      ]
+    },
+    {
+      "Occ_Id": 7,
+      "Occ_Name": "Treasurer",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 0,
+          "BAs_Degree": 98,
+          "PostGrad_Degree": 8
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 19,
+          "3_to_5_years": 35,
+          "5+_years": 46
+        }
+      ]
+    },
+    {
+      "Occ_Id": 8,
+      "Occ_Name": "Director, Treasury",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 6,
+          "BAs_Degree": 80,
+          "PostGrad_Degree": 14
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 1,
+          "3_to_5_years": 15,
+          "5+_years": 84
+        }
+      ]
+    },
+    {
+      "Occ_Id": 9,
+      "Occ_Name": "Director, Risk Management",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 0,
+          "BAs_Degree": 93,
+          "PostGrad_Degree": 7
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 5,
+          "3_to_5_years": 38,
+          "5+_years": 57
+        }
+      ]
+    },
+    {
+      "Occ_Id": 10,
+      "Occ_Name": "Manager, Treasury",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 6,
+          "BAs_Degree": 90,
+          "PostGrad_Degree": 4
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 5,
+          "3_to_5_years": 51,
+          "5+_years": 44
+        }
+      ]
+    },
+    {
+      "Occ_Id": 11,
+      "Occ_Name": "Treasury Analyst",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 0,
+          "BAs_Degree": 98,
+          "PostGrad_Degree": 2
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 45,
+          "3_to_5_years": 48,
+          "5+_years": 7
+        }
+      ]
+    },
+    {
+      "Occ_Id": 12,
+      "Occ_Name": "Controller",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 0,
+          "BAs_Degree": 96,
+          "PostGrad_Degree": 4
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 9,
+          "3_to_5_years": 47,
+          "5+_years": 44
+        }
+      ]
+    },
+    {
+      "Occ_Id": 13,
+      "Occ_Name": "Director, Accounting",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 2,
+          "BAs_Degree": 95,
+          "PostGrad_Degree": 3
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 8,
+          "3_to_5_years": 25,
+          "5+_years": 67
+        }
+      ]
+    },
+    {
+      "Occ_Id": 14,
+      "Occ_Name": "Manager, Accounting",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 5,
+          "BAs_Degree": 93,
+          "PostGrad_Degree": 2
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 7,
+          "3_to_5_years": 59,
+          "5+_years": 34
+        }
+      ]
+    },
+    {
+      "Occ_Id": 15,
+      "Occ_Name": "Accountant",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 0,
+          "BAs_Degree": 99,
+          "PostGrad_Degree": 1
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 40,
+          "3_to_5_years": 55,
+          "5+_years": 5
+        }
+      ]
+    },
+    {
+      "Occ_Id": 16,
+      "Occ_Name": "Accounting Clerk",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 68,
+          "BAs_Degree": 31,
+          "PostGrad_Degree": 1
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 69,
+          "3_to_5_years": 28,
+          "5+_years": 3
+        }
+      ]
+    },
+    {
+      "Occ_Id": 17,
+      "Occ_Name": "Vice President, Audit",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 4,
+          "BAs_Degree": 89,
+          "PostGrad_Degree": 7
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 1,
+          "3_to_5_years": 20,
+          "5+_years": 79
+        }
+      ]
+    },
+    {
+      "Occ_Id": 18,
+      "Occ_Name": "Director, Audit",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 2,
+          "BAs_Degree": 95,
+          "PostGrad_Degree": 3
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 1,
+          "3_to_5_years": 13,
+          "5+_years": 86
+        }
+      ]
+    },
+    {
+      "Occ_Id": 19,
+      "Occ_Name": "Manager, Audit",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 0,
+          "BAs_Degree": 97,
+          "PostGrad_Degree": 3
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 7,
+          "3_to_5_years": 42,
+          "5+_years": 51
+        }
+      ]
+    },
+    {
+      "Occ_Id": 20,
+      "Occ_Name": "Auditor",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 0,
+          "BAs_Degree": 98,
+          "PostGrad_Degree": 2
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 31,
+          "3_to_5_years": 49,
+          "5+_years": 20
+        }
+      ]
+    },
+    {
+      "Occ_Id": 21,
+      "Occ_Name": "Vice President, Tax",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 1,
+          "BAs_Degree": 83,
+          "PostGrad_Degree": 16
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 1,
+          "3_to_5_years": 24,
+          "5+_years": 75
+        }
+      ]
+    },
+    {
+      "Occ_Id": 22,
+      "Occ_Name": "Director, Tax",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 3,
+          "BAs_Degree": 89,
+          "PostGrad_Degree": 8
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 3,
+          "3_to_5_years": 16,
+          "5+_years": 81
+        }
+      ]
+    },
+    {
+      "Occ_Id": 23,
+      "Occ_Name": "Manager, Tax",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 1,
+          "BAs_Degree": 93,
+          "PostGrad_Degree": 6
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 5,
+          "3_to_5_years": 58,
+          "5+_years": 37
+        }
+      ]
+    },
+    {
+      "Occ_Id": 24,
+      "Occ_Name": "Tax Accountant",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 0,
+          "BAs_Degree": 98,
+          "PostGrad_Degree": 2
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 46,
+          "3_to_5_years": 49,
+          "5+_years": 5
+        }
+      ]
+    },
+    {
+      "Occ_Id": 25,
+      "Occ_Name": "Tax Analyst",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 81,
+          "BAs_Degree": 17,
+          "PostGrad_Degree": 2
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 51,
+          "3_to_5_years": 44,
+          "5+_years": 5
+        }
+      ]
+    },
+    {
+      "Occ_Id": 26,
+      "Occ_Name": "Finance Sector Overall",
+      "Requested_Degree": [
+        {
+          "SubBA_Degree": 13,
+          "BAs_Degree": 84,
+          "PostGrad_Degree": 3
+        }
+      ],
+      "Years_Of_Experience": [
+        {
+          "0_to_2_years": 34,
+          "3_to_5_years": 46,
+          "5+_years": 22
+        }
+      ]
+    }
+  ]
+}

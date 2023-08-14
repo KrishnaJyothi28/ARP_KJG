@@ -1,0 +1,516 @@
+{
+  "data": [
+    {
+      "Occ_Id": 1,
+      "Occ_Name": "Chief Financial Officer",
+      "Occ_Desc": "Directs the fiscal functions of the company. Monitors, controls and reports the financial assets and results. Oversees the financial and operating strategy as well as risk management. Serves on the Executive Committee and acts as a business partner to the CEO and supports the development of the company’s overall strategic plan. Often has responsibility for human resources, procurement, administration, and information systems.",
+      "Top_Credentials": ["Certified Public Accountant (CPA)"],
+      "Top_Specialized_Skills": [
+        "Accounting",
+        "Budgeting",
+        "Financial Reporting",
+        "Financial Management",
+        "Financial Statements"
+      ],
+      "Top_Emerging_Skills": [
+        "Key Performance Indicators",
+        "Leadership and Management",
+        "Data Visualization",
+        "Real Estate and Rental",
+        "Data Science"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 2,
+      "Occ_Name": "Vice President, Finance/FP&A",
+      "Occ_Desc": "Plays an ownership role in financial planning, management reporting and financial analytics efforts across the company, including consolidation of plans and forecasts for an enterprise outlook. Provides senior and executive management with financial reporting and analysis to be used in strategic and tactical decision making. Gathers business performance data, analyzes and compares it to previous periods, and develops recommendations for improvements in revenue growth or resource allocation. Works with various members of the operational and finance executive teams, the Board of Directors and, potentially, the investment community.",
+      "Top_Credentials": ["Certified Public Accountant (CPA)"],
+      "Top_Specialized_Skills": ["Finance", "Accounting", "Budgeting", "Financial Reporting", "Financial Analysis"],
+      "Top_Emerging_Skills": [
+        "Key Performance Indicators",
+        "Leadership and Management",
+        "Data Visualization",
+        "Data Science",
+        "Fintech"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 3,
+      "Occ_Name": "Director, Finance/FP&A",
+      "Occ_Desc": "Contributes to the company’s success by providing timely advice on strategy and operations. Drives the FP&A teams to elevate existing processes and tools in order to meet the needs of future growth. Oversees the development and implementation of effective, integrated systems for budgeting, payables, reporting and auditing revenues, expenditures and asset accountability. Reports directly to VP Finance or Treasurer.",
+      "Top_Credentials": ["Certified Public Accountant (CPA)"],
+      "Top_Specialized_Skills": ["Finance", "Budgeting", "Accounting", "Financial Reporting", "Financial Analysis"],
+      "Top_Emerging_Skills": [
+        "Key Performance Indicators",
+        "Leadership and Management",
+        "Data Visualization",
+        "Fintech",
+        "Data Science"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 4,
+      "Occ_Name": "Manager, Finance/FP&A",
+      "Occ_Desc": "Analyzes operational, commercial, strategic and financial data/metrics in order to provide insightful analysis to drive management actions and initiatives and the planning process. Performs financial analyses in line with corporate goals and allocates capital to its most efficient place. Becomes a trusted advisor to the supported unit.",
+      "Top_Credentials": ["Certified Public Accountant (CPA)", "Project Management Certification"],
+      "Top_Specialized_Skills": ["Budgeting", "Finance", "Accounting", "Financial Reporting", "Financial Analysis"],
+      "Top_Emerging_Skills": [
+        "Key Performance Indicators",
+        "Data Visualization",
+        "Leadership and Management",
+        "Data Science",
+        "Real Estate and Rental"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 5,
+      "Occ_Name": "Senior Financial/FP&A Analyst",
+      "Occ_Desc": "Is responsible for providing senior leadership team with timely financial and operational analysis to facilitate sound business decisions. Focuses on the strategic plan, budgeting, monthly forecasting and consolidated financial reporting. Conducts and documents financial analysis projects, data gathering, manipulation, summarization, and analysis of financial reports, sales activity, trends and opportunities.",
+      "Top_Credentials": ["Certified Public Accountant (CPA)", "Security Clearance", "Certificate in Accounting"],
+      "Top_Specialized_Skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Accounting",
+        "Financial Reporting",
+        "Financial Planning"
+      ],
+      "Top_Emerging_Skills": [
+        "Key Performance Indicators",
+        "Data Visualization",
+        "Data Science",
+        "Leadership and Management",
+        "Data Analysis"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 6,
+      "Occ_Name": "Financial/FP&A Analyst",
+      "Occ_Desc": "Serves as part of the Finance team and is responsible for providing granular data and analysis on business issues, planning, budgeting and forecasting across the company for management’s use in strategic and tactical decision making. Represents the finance point-of-view in helping the department make sound business decisions. Reports to the FP&A Manager and works closely with the business units that FP&A supports.",
+      "Top_Credentials": ["Certified Public Accountant (CPA)", "Security Clearance"],
+      "Top_Specialized_Skills": [
+        "Financial Analysis",
+        "Accounting",
+        "Budgeting",
+        "Financial Reporting",
+        "Financial Modeling"
+      ],
+      "Top_Emerging_Skills": [
+        "Key Performance Indicators",
+        "Data Visualization",
+        "Real Estate and Rental",
+        "Data Science",
+        "Leadership and Management"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 7,
+      "Occ_Name": "Treasurer",
+      "Occ_Desc": "Responsible for the oversight of the receivables management area including cash management, collections and refunds, as well as investments’ middle-office operations. Manages activities surrounding financial reporting, tax compliance, international accounting and consolidations and cash management planning in domestic and international efforts. This individual is often part of the Executive team and typically reports directly to the CFO.",
+      "Top_Credentials": ["Certified Treasury Professional (CTP)", "Certified Public Accountant (CPA)"],
+      "Top_Specialized_Skills": ["Accounting", "Budgeting", "Financial Reporting", "Cash Management", "Bookkeeping"],
+      "Top_Emerging_Skills": ["Data Visualization", "Leadership and Management", "Data Analysis"],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 8,
+      "Occ_Name": "Director, Treasury",
+      "Occ_Desc": "Is responsible for the determination of cash requirements, cash concentration, short-term cash investments and maintenance of appropriate cash flow. Establishes short-term borrowing needs and recommends short-term investing initiatives. Directs and manages operations of the Treasury function and prepares and analyzes departments report, financial accounting records, cash flow analysis, credit agreement compliance and projections.",
+      "Top_Credentials": ["Certified Treasury Professional (CTP)", "Certified Public Accountant (CPA)"],
+      "Top_Specialized_Skills": [
+        "Accounting",
+        "Cash Management",
+        "Risk Management",
+        "Budgeting",
+        "Cash Flow Forecasting"
+      ],
+      "Top_Emerging_Skills": [
+        "Leadership and Management",
+        "Key Performance Indicators",
+        "Fintech",
+        "Data Visualization",
+        "Real Estate and Rental"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 9,
+      "Occ_Name": "Director, Risk Management",
+      "Occ_Desc": "Leads risk management audits. Is responsible for the overall planning, organizing and execution of all risk management functions. Manages company-wide risk management program. Formulates and recommends insurance strategy.",
+      "Top_Credentials": [
+        "Certified Information Systems Auditor (CISA)",
+        "Certified Information Systems Security Professional (CISSP)",
+        "Certified Information Security Manager (CISM)",
+        "Project Management Certification",
+        "Certified Public Accountant (CPA)"
+      ],
+      "Top_Specialized_Skills": [
+        "Risk Management",
+        "Project Management",
+        "Staff Management",
+        "Risk Assessment",
+        "Quality Management"
+      ],
+      "Top_Emerging_Skills": [
+        "Key Performance Indicators",
+        "Leadership and Management",
+        "Artificial Intelligence",
+        "Data Science",
+        "Data Visualization"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 10,
+      "Occ_Name": "Manager, Treasury",
+      "Occ_Desc": "Responsible for the planning and execution of day-to-day and period-end Treasury activities including managing the company’s cash flow forecast, identifying cost-saving and profit maximizing opportunities and ensuring compliance with company, department and audit standards to maximize the protection of the company’s cash assets. Partners with the Assistant Treasurer to create the vision, strategy and standards by which the Treasury department provides leadership and value to the organization. Manages all banking needs.",
+      "Top_Credentials": [
+        "Certified Treasury Professional (CTP)",
+        "Project Management Certification",
+        "Certified Public Accountant (CPA)",
+        "Project Management Professional (PMP)"
+      ],
+      "Top_Specialized_Skills": ["Cash Management", "Accounting", "Risk Management", "Project Management", "Budgeting"],
+      "Top_Emerging_Skills": [
+        "Data Visualization",
+        "Key Performance Indicators",
+        "Fintech",
+        "Engineering: Robotics",
+        "Artificial Intelligence"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 11,
+      "Occ_Name": "Treasury Analyst",
+      "Occ_Desc": "Reports to the Treasury Manager, Assistant Treasurer or Treasurer. Facilitates daily treasury operations, provides accurate cash reporting and assists with bank structure management and some risk management activities. Produces reports to aid in the forecasting of cash needs for the business and assists with other Treasury functions. Works cross functionally with the Finance team to identify FX exposures and support the hedging program.",
+      "Top_Credentials": [
+        "Chartered Financial Analyst (CFA)",
+        "Certified Public Accountant (CPA)",
+        "Certified Treasury Professional (CTP)"
+      ],
+      "Top_Specialized_Skills": [
+        "Accounting",
+        "Cash Management",
+        "Financial Analysis",
+        "Cash Flow Forecasting",
+        "Economics"
+      ],
+      "Top_Emerging_Skills": [
+        "Data Visualization",
+        "Key Performance Indicators",
+        "Data Science",
+        "Fintech",
+        "Data Analysis"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 12,
+      "Occ_Name": "Controller",
+      "Occ_Desc": "Monitors and confirms company’s financial condition by conducting audits and providing information for external audits. Directs financial accounting activities of the organization and decisions by enforcing policies and procedures. Oversees general ledger, accounts payable, accounts receivable, cash accounting, financial statement reporting, external audit, tax filings and monitors budgeted expenditures. Supervises accounting team and reports to the CFO.",
+      "Top_Credentials": [
+        "Certified Public Accountant (CPA)",
+        "Certified Management Accountant (CMA)",
+        "Security Clearance"
+      ],
+      "Top_Specialized_Skills": [
+        "Accounting",
+        "Budgeting",
+        "Financial Reporting",
+        "Financial Statements",
+        "Generally Accepted Accounting Principles (GAAP)"
+      ],
+      "Top_Emerging_Skills": [
+        "Key Performance Indicators",
+        "Real Estate and Rental",
+        "Construction Industry Knowledge",
+        "Data Visualization",
+        "Data Analysis"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 13,
+      "Occ_Name": "Director, Accounting",
+      "Occ_Desc": "Develops and maintains an organization’s accounting policies and procedures. Plans, organizes, and coordinates the year-end close process with internal and external auditors. Typically reports to the CFO or Controller.",
+      "Top_Credentials": ["Certified Public Accountant (CPA)"],
+      "Top_Specialized_Skills": [
+        "Accounting",
+        "Financial Reporting",
+        "Generally Accepted Accounting Principles (GAAP)",
+        "Budgeting",
+        "Financial Statements"
+      ],
+      "Top_Emerging_Skills": [
+        "Key Performance Indicators",
+        "Real Estate and Rental",
+        "Leadership and Management",
+        "Cloud Solutions",
+        "Data Analysis"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 14,
+      "Occ_Name": "Manager, Accounting",
+      "Occ_Desc": "Responsible for the first-level review of global general ledger accounting balance sheet reconciliations and preparing global balance sheet variance analysis. Oversees the monthly, quarterly and annual close process and develops policies and procedures to ensure proper accounting company-wide. Oversees the day-to-day accounting. Is instrumental in running and producing daily, weekly and monthly reporting. Directs and manages the accounting staff.",
+      "Top_Credentials": ["Certified Public Accountant (CPA)"],
+      "Top_Specialized_Skills": [
+        "Accounting",
+        "Accounting Management",
+        "Generally Accepted Accounting Principles (GAAP)",
+        "Financial Statements",
+        "Financial Reporting"
+      ],
+      "Top_Emerging_Skills": [
+        "Key Performance Indicators",
+        "Real Estate and Rental",
+        "Data Visualization",
+        "Leadership and Management",
+        "Data Analysis"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 15,
+      "Occ_Name": "Accountant",
+      "Occ_Desc": "Main duties include utilizing the company’s financial data in the preparation of general ledger journal entries. Helps prepare the budget and analyze the monthly financial statements for variances. Assists in tax report filings, asset allocations and forecasting. Examines accounting documents for accuracy and ensures compliance with policies, procedures and accounting standards.",
+      "Top_Credentials": ["Certified Public Accountant (CPA)"],
+      "Top_Specialized_Skills": [
+        "Accounting",
+        "Account Reconciliation",
+        "General Ledger",
+        "Financial Statements",
+        "Generally Accepted Accounting Principles (GAAP)"
+      ],
+      "Top_Emerging_Skills": [
+        "Real Estate and Rental",
+        "Key Performance Indicators",
+        "Data Analysis",
+        "Cloud Solutions"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 16,
+      "Occ_Name": "Accounting Clerk",
+      "Occ_Desc": "Is responsible for assisting with both clerical and administrative tasks. Participates in verifying the accuracy of invoices, updating and maintaining accounting ledgers, and investigating data inconsistencies. This position is an entry level role within the Accounting function.",
+      "Top_Credentials": [],
+      "Top_Specialized_Skills": [
+        "Accounting",
+        "Data Entry",
+        "Bookkeeping",
+        "Account Reconciliation",
+        "Customer Billing"
+      ],
+      "Top_Emerging_Skills": ["Real Estate and Rental", "Data Analysis"],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 17,
+      "Occ_Name": "Vice President, Audit",
+      "Occ_Desc": "Responsible for designing, developing, and implementing internal auditing policies consistent with the organization’s standards and goals. Identifies improper accounting or documentation and makes recommendations for improvement to top management. The Vice President of Audit typically reports to the CFO or other top management.",
+      "Top_Credentials": [
+        "Certified Information Systems Auditor (CISA)",
+        "Certified Information Systems Security Professional (CISSP)",
+        "Certified Information Security Manager (CISM)",
+        "Certified Public Accountant (CPA)",
+        "Certified Internal Auditor (CIA)"
+      ],
+      "Top_Specialized_Skills": [
+        "Internal Auditing",
+        "Audit Planning",
+        "Risk Assessment",
+        "Risk Management",
+        "Project Management"
+      ],
+      "Top_Emerging_Skills": [
+        "Data Visualization",
+        "Data Science",
+        "Machine Learning",
+        "Leadership and Management",
+        "Key Performance Indicators"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 18,
+      "Occ_Name": "Director, Audit",
+      "Occ_Desc": "Implements the internal auditing policies and procedures consistent with the organization’s standards and defined by executive management. Manages and oversees Audit Managers and other Audit staff to ensure compliance with laws and regulations. The Director of Audit typically reports to the CFO or other top management.",
+      "Top_Credentials": [
+        "Certified Public Accountant (CPA)",
+        "Certified Information Systems Auditor (CISA)",
+        "Institute of Internal Auditors (IIA)",
+        "Certified Regulatory Compliance Manager (CRCM)",
+        "Certified Internal Auditor (CIA)"
+      ],
+      "Top_Specialized_Skills": [
+        "Internal Auditing",
+        "Audit Planning",
+        "Risk Assessment",
+        "External Auditing",
+        "Risk Management"
+      ],
+      "Top_Emerging_Skills": [
+        "Leadership and Management",
+        "Data Visualization",
+        "Key Performance Indicators",
+        "Engineering: Robotics",
+        "Data Science"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 19,
+      "Occ_Name": "Manager, Audit",
+      "Occ_Desc": "Manages the process of examining records to determine the financial status of a company or organization. Inspects accounts and account books, prepares reports on the accuracy of internal financial records and accounting procedures. May supervise accountants and bookkeepers during the auditing process. Directs and manages the audit staff.",
+      "Top_Credentials": [
+        "Certified Public Accountant (CPA)",
+        "Certified Information Systems Auditor (CISA)",
+        "Certified Internal Auditor (CIA)",
+        "Certified Information Systems Security Professional (CISSP)",
+        "Information Systems Certification"
+      ],
+      "Top_Specialized_Skills": [
+        "Internal Auditing",
+        "Audit Planning",
+        "Risk Assessment",
+        "Accounting",
+        "Risk Management"
+      ],
+      "Top_Emerging_Skills": [
+        "Data Visualization",
+        "Data Science",
+        "Leadership and Management",
+        "Key Performance Indicators",
+        "Machine Learning"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 20,
+      "Occ_Name": "Auditor",
+      "Occ_Desc": "Examines records to determine the financial status of a company or organization. Inspects accounts and account books, prepares reports on the accuracy of internal financial records and accounting procedures. Responsible for verifying company assets and liabilities, compiling with laws and regulations, and proposing new processes for financial improvement. Reports to the Audit Manager or Director of Audit.",
+      "Top_Credentials": [
+        "Certified Public Accountant (CPA)",
+        "Certified Information Systems Auditor (CISA)",
+        "Certified Internal Auditor (CIA)",
+        "Institute of Internal Auditors (IIA)",
+        "Information Systems Certification"
+      ],
+      "Top_Specialized_Skills": [
+        "Internal Auditing",
+        "Audit Planning",
+        "Audit Reports",
+        "Accounting",
+        "Public Accounting"
+      ],
+      "Top_Emerging_Skills": [
+        "Data Visualization",
+        "Leadership and Management",
+        "Artificial Intelligence",
+        "Data Science",
+        "Key Performance Indicators"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 21,
+      "Occ_Name": "Vice President, Tax",
+      "Occ_Desc": "Ensures compliance with all federal, state, and local tax regulations while working to minimize tax liability. Plans and directs all aspects of an organization’s tax policies and objectives. Provides the executive management team with analysis to be used in strategic decision-making. The Vice President of Tax typically reports to the CFO or other top management.",
+      "Top_Credentials": ["Certified Public Accountant (CPA)"],
+      "Top_Specialized_Skills": ["Tax Compliance", "Accounting", "Public Accounting", "Tax Planning", "Tax Accounting"],
+      "Top_Emerging_Skills": [
+        "Fintech",
+        "Leadership and Management",
+        "Real Estate and Rental",
+        "Key Performance Indicators",
+        "Tax Software"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 22,
+      "Occ_Name": "Director, Tax",
+      "Occ_Desc": "Helps ensure compliance with all federal, state, and local tax regulations while working to minimize tax liability. Oversees Tax Managers and other Tax staff to ensure compliance with the organization’s tax policies and objectives. The Director of Tax typically reports to the Vice President of Tax or other top executives.",
+      "Top_Credentials": ["Certified Public Accountant (CPA)"],
+      "Top_Specialized_Skills": ["Public Accounting", "Accounting", "Tax Compliance", "Tax Planning", "Tax Returns"],
+      "Top_Emerging_Skills": [
+        "Data Visualization",
+        "Leadership and Management",
+        "Real Estate and Rental",
+        "Tax Software",
+        "Key Performance Indicators"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 23,
+      "Occ_Name": "Manager, Tax",
+      "Occ_Desc": "Manages tax reporting and advises on tax planning for a company. Maintains current knowledge of federal, state and local tax codes and ensure that company tax filings are in compliance with the law. Manages tax accounting staff.",
+      "Top_Credentials": ["Certified Public Accountant (CPA)", "Project Management Certification"],
+      "Top_Specialized_Skills": ["Public Accounting", "Accounting", "Tax Compliance", "Tax Returns", "Tax Planning"],
+      "Top_Emerging_Skills": [
+        "Real Estate and Rental",
+        "Tax Software",
+        "Data Visualization",
+        "Data Analysis",
+        "Data Management"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 24,
+      "Occ_Name": "Tax Accountant",
+      "Occ_Desc": "Organizes tax-related information and prepares tax returns. Monitors tax regulations and advises on tax issues that affect business. May assist with preparation for a tax audit. May specialize in complex topics related to corporate taxes or trusts and estates.",
+      "Top_Credentials": ["Certified Public Accountant (CPA)", "Certified Tax Professional"],
+      "Top_Specialized_Skills": ["Tax Returns", "Accounting", "Tax Preparation", "Tax Accounting", "Tax Law"],
+      "Top_Emerging_Skills": [
+        "Real Estate and Rental",
+        "Tax Software",
+        "Data Analysis",
+        "Computer and Information Technology Industry Knowledge"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 25,
+      "Occ_Name": "Tax Analyst",
+      "Occ_Desc": "Specializes in reviewing tax liability and tax practices for a company. Maintains current knowledge of federal, state, and local tax laws and codes. Assists with company tax filings, monitors compliance with tax codes, and identifies opportunities for tax savings.",
+      "Top_Credentials": [
+        "Certified Public Accountant (CPA)",
+        "Certified Payroll Professional (CPP)",
+        "Fundamental Payroll Certification"
+      ],
+      "Top_Specialized_Skills": ["Tax Analysis", "Tax Returns", "Accounting", "Tax Law", "Tax Compliance"],
+      "Top_Emerging_Skills": [
+        "Data Visualization",
+        "Tax Software",
+        "Real Estate and Rental",
+        "Data Analysis",
+        "Data Management"
+      ],
+      "Top_Job_Titles": []
+    },
+    {
+      "Occ_Id": 26,
+      "Occ_Name": "Finance Sector Overall",
+      "Occ_Desc": "",
+      "Top_Credentials": [
+        "Certified Public Accountant (CPA)",
+        "Certified Information Systems Auditor (CISA)",
+        "Certified Internal Auditor (CIA)",
+        "Institute of Internal Auditors (IIA)"
+      ],
+      "Top_Specialized_Skills": [],
+      "Top_Emerging_Skills": [],
+      "Top_Job_Titles": ["Accountant", "Accounting Clerk", "Manager of FP&A/Finance", "Financial Analyst", "Controller"]
+    }
+  ]
+}
